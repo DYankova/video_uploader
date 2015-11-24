@@ -8,10 +8,12 @@
 <title>Preview</title>
 </head>
 <body>
-   <video controls>
-     <source src="/videos/${fileName}">
-	 Your browser does not support the video tag.
-   </video>
+   <center>
+     <video controls>
+       <source src="/videos/${fileName}">
+	   Your browser does not support the video tag.
+     </video>
+   </center>
 </body>
 </html>
 
